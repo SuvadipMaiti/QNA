@@ -1,0 +1,13 @@
+.imageDiv img{
+    width:100%;
+    height: 300px;
+}
+
+.imageProfileDiv img{
+    width:10% !important;
+    height: 50px !important;
+}
+
+.ProfileDiv{
+    width:10% !important;
+}
